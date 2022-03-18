@@ -1,7 +1,7 @@
 
 blosum = open("BLOSUM62.txt")
-reader = open("input.txt", "r")
-writer = open("output.txt", "w")
+reader = open("input", "r")
+writer = open("output", "w")
 
 
 twod = []
